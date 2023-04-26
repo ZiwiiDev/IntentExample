@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practice2Oliver</string>
+    <string name="botonPedido" translatable="false">Place orders</string>
+    <string name="menuAyuda">Help</string>
+    <string name="menuAcercaDe">About</string>
+</resources>

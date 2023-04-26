@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">TropicFrut</string>
+    <string name="Activity1" translatable="false">Pantalla Principal</string>
+    <string name="tituloEmpresa" translatable="false">TropicFrut</string>
+    <string name="botonPedido">Hacer Pedido</string>
+    <string name="tituloToolbar" translatable="false">Oliver Fabian Stetcu | 2ºDAM</string>
+    <string name="menuAyuda">Ayuda</string>
+    <string name="menuAcercaDe">Acerca de</string>
+    <string name="nombreRegistro" translatable="false">Nombre:</string>
+    <string name="primerApellidoRegistro" translatable="false">Primer Apellido:</string>
+    <string name="telefonoRegistro" translatable="false">Teléfono:</string>
+    <string name="recogidaRegistro" translatable="false">Recogida:</string>
+    <string name="direccionRegistr" translatable="false">Dirección:</string>
+    <string name="botonVolver" translatable="false">Volver</string>
+    <string name="botonContinuar" translatable="false">Continuar</string>
+    <string name="hintNombre" translatable="false">Escribe aquí el nombre...</string>
+    <string name="hintApellido" translatable="false">Escribe aquí el apellido...</string>
+    <string name="hintTelefono" translatable="false">Escribe aquí el teléfono...</string>
+    <string name="hintDireccion" translatable="false">Escribe aquí la dirección...</string>
+    <string-array name="spinnerRecogida">
+        <item>A domicilio</item>
+        <item>Establecimiento</item>
+    </string-array>
+    <string name="avisoSpinner" translatable="false">Elige una opción...</string>
+    <string name="nombreApp" translatable="false">El nombre de la aplicación es: TropicFrut</string>
+    <string name="miNombre" translatable="false">Autor de la App: Oliver Fabian Stetcu</string>
+    <string name="añoCreacion" translatable="false">Año de creación de la App: 2022</string>
+    <string name="textoAleatorioAyuda" translatable="false">Muy lejos, más allá de las montañas de palabras, alejados de los países de las vocales y las consonantes, viven los textos simulados. Viven aislados en casas de letras, en la costa de la semántica, un gran océano de lenguas. Un riachuelo llamado Pons fluye por su pueblo y los abastece con las normas necesarias. Hablamos de un país paraisomático en el que a uno le caen pedazos de frases asadas en la boca. Ni siquiera los todopoderosos signos de puntuación dominan a los textos simulados; una vida, se puede decir, poco ortográfica. Pero un buen día, una pequeña línea de texto simulado, llamada Lorem Ipsum, decidió aventurarse y salir al vasto mundo de la gramática. El gran Oxmox le desanconsejó hacerlo, ya que esas tierras estaban llenas de comas malvadas, signos de interrogación salvajes y puntos y coma traicioneros, pero el texto simulado no se dejó atemorizar. Empacó sus siete versales, enfundó su inicial en el cinturón y se puso en camino. Cuando ya había escalado las primeras colinas de las montañas cursivas, se dio media vuelta para dirigir su mirada por última vez, hacia su ciudad natal Letralandia, el encabezamiento del pueblo Alfabeto y el subtítulo de su propia calle, la calle del renglón. Una pregunta retórica se le pasó por la mente y le puso melancólico, pero enseguida reemprendió su marcha. De nuevo en camino, se encontró con una copia. La copia advirtió al pequeño texto simulado de que en el lugar del que ella venía, la habían reescrito miles de veces y que todo lo que había quedado de su original era la palabra "y", así que más le valía al pequeño texto simulado volver a su país, donde estaría mucho más seguro. Pero nada de lo dicho por la copia pudo convencerlo, de manera que al cabo de poco tiempo, unos pérfidos redactores publicitarios lo encontraron y emborracharon con Longe y Parole para llevárselo después a su agencia, donde abusaron de él para sus proyectos, una y otra vez. Y si aún no lo han reescrito, lo siguen utilizando hasta ahora.Muy lejos, más allá de las montañas de palabras, alejados de los países de las vocales y las consonantes, viven los textos simulados. Viven aislados en casas de letras, en la costa de la semántica, un gran océano de lenguas. Un riachuelo llamado Pons fluye por su pueblo y los abastece con las normas necesarias. Hablamos de un país paraisomático en el que a uno le caen pedazos de frases asadas en la boca. Ni siquiera los todopoderosos signos de puntuación dominan a los textos simulados; una vida, se puede decir, poco ortográfica. Pero un buen día, una pequeña línea de texto simulado, llamada Lorem Ipsum, decidió aventurarse y salir al vasto mundo de la gramática. El gran Oxmox le desanconsejó hacerlo, ya que esas tierras estaban llenas de comas malvadas, signos de interrogación salvajes y puntos y coma traicioneros, pero el texto simulado no se dejó atemorizar. Empacó sus siete versales, enfundó su inicial en el cinturón y se puso en camino. </string>
+    <string name="tituloInforme" translatable="false">INFORME</string>
+    <string name="infoUsuario" translatable="false">Información del usuario registrado:</string>
+    <string name="zumoArandanos" translatable="false">Zumo de Arándanos</string>
+    <string name="zumoTomate" translatable="false">Zumo natural de Tomate</string>
+    <string name="zumoMelocoton" translatable="false">Zumo de Melocotón</string>
+    <string name="zumoNaranja" translatable="false">Zumo natural de Naranja</string>
+    <string name="tituloZumos" translatable="false">ZUMOS A ELECCIÓN</string>
+    <string name="precioZumoTomate" translatable="false">0,99€</string>
+    <string name="precioZumoMelocoton" translatable="false">0,58€</string>
+    <string name="precioZumoNaranja" translatable="false">2,25€</string>
+    <string name="precioZumoArandanos" translatable="false">1,89€</string>
+    <string name="errorDatosIncorrectos" translatable="false">¡Error, debes rellenar todos los campos!</string>
+    <string name="pedidoCorrecto" translatable="false">¡Su pedido se ha realizado correctamente!</string>
+    <string name="tituloAcercaDe" translatable="false">ACERCA DE</string>
+    <string name="intoleranteLactosa" translatable="false">Sin lactosa</string>
+    <string name="tituloRegistro" translatable="false">REGISTRO</string>
+</resources>
